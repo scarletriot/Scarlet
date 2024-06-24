@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scarletriot
+- 👋 Hi, I’m @scarlet
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on ...
