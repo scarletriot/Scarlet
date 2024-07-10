@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scarlet
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me,through my e-mail=sonupatelcp222@gmail.com
 - 😄 Pronouns: ...
